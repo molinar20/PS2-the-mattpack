@@ -7,7 +7,7 @@ You should work in groups of 2 to 4 (not alone and not more than 4). If this is 
 ### Please enter the names of the group members here:
 1. Juan H Piloto
 1. Vanessa Muhl
-1. 
+1. Danielle Bovie
 1. 
 
 ## Due date
@@ -28,9 +28,9 @@ The goal of this project is to write a Bash script that does the following:
 
 GNV to: | Total flights | Total flights delayed (>15min) | Total flights delayed due to Weather
 --------|---------------|------------------------|-------------------------------
-ATL |       2951
-CLT |       952 
-MIA |       411
+ATL |       1476                         29
+CLT |       476                          90
+MIA |       205                           7
 
 3. Within a function, print a list of all unique airport codes contained in the dataset. (*3 points*)
 
